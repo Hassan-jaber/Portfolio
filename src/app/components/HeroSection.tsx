@@ -128,7 +128,7 @@ export function HeroSection() {
             <div className="absolute inset-0 bg-gradient-to-br from-cyan-400/30 to-violet-400/30 rounded-full blur-xl" />
             <ImageWithFallback
               src="https://images.unsplash.com/photo-1752859951149-7d3fc700a7ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBkZXZlbG9wZXIlMjBwb3J0cmFpdCUyMHRlY2h8ZW58MXx8fHwxNzcxMDQ5OTYyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-              alt="Hassan Jaber"
+              alt="mohammed Jaber"
               className="relative w-32 h-32 object-cover rounded-full border-2 border-cyan-400/50"
             />
           </div>
@@ -251,7 +251,7 @@ export function HeroSection() {
               <div className="absolute inset-0 bg-gradient-to-br from-cyan-400/15 to-violet-400/15 rounded-xl blur-lg" />
               <ImageWithFallback
                 src="https://images.unsplash.com/photo-1752859951149-7d3fc700a7ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBkZXZlbG9wZXIlMjBwb3J0cmFpdCUyMHRlY2h8ZW58MXx8fHwxNzcxMDQ5OTYyfDA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-                alt="Hassan Jaber"
+                alt="mohammed Jaber"
                 className="relative w-full h-56 object-cover rounded-xl border border-cyan-400/40"
               />
             </div>
@@ -260,7 +260,7 @@ export function HeroSection() {
               className="text-xl text-white mb-2"
               style={{ fontFamily: 'Orbitron, sans-serif', fontWeight: 700 }}
             >
-              Hassan Jaber
+              mohammed Jaber
             </h3>
             
             <div className="flex items-center gap-2 text-xs text-slate-400">
